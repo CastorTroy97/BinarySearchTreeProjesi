@@ -1,1 +1,1 @@
-# BinarySearchTreeProjesi
+# BinarySearchTreeProjesi için olan çalışmamın cevapları ve detayları ProjectAnswers adlı dosyada mevcuttur.
